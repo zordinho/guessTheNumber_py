@@ -1,6 +1,6 @@
 import random
 minimum = 0
-maximum = 1000
+maximum = 100
 rand = random.randint(minimum, maximum)
 print("Guess the number from range [", minimum, maximum,"]")
 while True:
